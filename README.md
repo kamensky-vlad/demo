@@ -31,3 +31,5 @@ Add k8s Service yaml
 Add version file
 
 Helm chart
+
+Fix docker build jenkins
