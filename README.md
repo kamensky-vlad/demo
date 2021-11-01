@@ -3,7 +3,7 @@
 For simple Spring application see https://start.spring.io/
 For docker information see https://docs.docker.com/
 
-#Structure
+# Structure
 
 Directory "demo" contain java app, dockerfile and k8s deployment file
 Directory "ci" contain a groovy script for Jenkins, for automate build .jar, dockerfile and push it to docker hub. 
