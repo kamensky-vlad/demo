@@ -24,7 +24,7 @@ https://hub.docker.com/r/kamenskyvo/hello-app/tags
 `docker tag hello-app.jar ${DockerhubID}/hello-app && docker push ${DockerhubID}/hello-app `
 
 # Need to do
-Automatic deployment to k8s and apply it on control node
+Automatic deployment to k8s and apply it on cluster
 
 Add k8s Service yaml
 
