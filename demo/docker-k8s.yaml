@@ -17,6 +17,7 @@ spec:
     spec:
       containers:
         - name: docker-k8s-demo
+          host: hello-world.example.com
           image: kamenskyvo/hello-app
           ports:
             - containerPort: 8080
